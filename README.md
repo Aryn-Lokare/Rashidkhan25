@@ -1,6 +1,6 @@
 <h2>Hi, I'm Aryan Lokare  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
 
-<img src="C:\Users\Aryan\OneDrive\Desktop\git\Aryan Lokare (aryansllll) (2).png" alt="Profile Banner" width="100%">
+<img src=""C:\Users\Aryan\Downloads\a.png"" alt="Profile Banner" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=600&lines=🚀+MERN-Stack+Developer;💻+Coding+Enthusiast;🎉+Welcome+to+my+GitHub+Page)
 
